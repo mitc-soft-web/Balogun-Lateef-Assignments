@@ -1,0 +1,14 @@
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.AssemblyInfoInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.AssemblyInfo.cs
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.csproj.CoreCompileInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\bin\Debug\net7.0\Question6.exe
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\bin\Debug\net7.0\Question6.deps.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\bin\Debug\net7.0\Question6.runtimeconfig.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\bin\Debug\net7.0\Question6.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\bin\Debug\net7.0\Question6.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\refint\Question6.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\Question6.genruntimeconfig.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question6\obj\Debug\net7.0\ref\Question6.dll

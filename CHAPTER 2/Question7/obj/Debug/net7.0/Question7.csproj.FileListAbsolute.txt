@@ -1,0 +1,14 @@
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\bin\Debug\net7.0\Question7.exe
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\bin\Debug\net7.0\Question7.deps.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\bin\Debug\net7.0\Question7.runtimeconfig.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\bin\Debug\net7.0\Question7.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\bin\Debug\net7.0\Question7.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.AssemblyInfoInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.AssemblyInfo.cs
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.csproj.CoreCompileInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\refint\Question7.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\Question7.genruntimeconfig.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 2\Question7\obj\Debug\net7.0\ref\Question7.dll
