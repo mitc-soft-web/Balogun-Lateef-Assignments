@@ -1,5 +1,5 @@
-﻿System.Console.Write("Input x-coordinate: ");
-int x = Convert.ToInt32(Console.ReadLine());
-
-System.Console.Write("Input y-coordinate: ");
-int y = Convert.ToInt32(Console.ReadLine());
+﻿// Q8
+string greet2 = "Hello", subject2 = "World.";
+object concat2 = greet2 + " " + subject2;
+string answer = (string)concat2;
+System.Console.WriteLine(answer);

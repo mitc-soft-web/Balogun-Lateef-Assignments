@@ -1,0 +1,14 @@
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\bin\Debug\net7.0\Question8.exe
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\bin\Debug\net7.0\Question8.deps.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\bin\Debug\net7.0\Question8.runtimeconfig.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\bin\Debug\net7.0\Question8.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\bin\Debug\net7.0\Question8.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.AssemblyInfoInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.AssemblyInfo.cs
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.csproj.CoreCompileInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\refint\Question8.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\Question8.genruntimeconfig.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 3\Question8\obj\Debug\net7.0\ref\Question8.dll

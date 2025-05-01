@@ -1,3 +1,3 @@
-﻿int a = 40;
-bool check = (a % 5 == 0) && (a % 7 == 0);
-System.Console.WriteLine(check);
+﻿// Q2
+float s = 3456.091124875956542151256683467f;
+decimal  o = -5.01m, p = 12.345m, n = 5.0m, q = 34.567839023m, r = 8923.1234857m;

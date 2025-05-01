@@ -1,15 +1,5 @@
-﻿System.Console.Write("Enter the first number(e.g 14): ");
-int a = Convert.ToInt32(Console.ReadLine());
-System.Console.Write("Enter the second number(e.g 30): ");
-int b = Convert.ToInt32(Console.ReadLine());
-
-for (int i = a; i < b; i++)
-{
-    if (i % 5 == 0)
-    {
-       string amount= (string)i.count;
-       System.Console.WriteLine(i);
-       System.Console.WriteLine(amount); 
-    }
-    
-}
+﻿int a = 5;
+int b = 8;
+int h = 6;
+int areaOfTrapezium =((a + b)*h)/2;
+System.Console.WriteLine("The Area of a Trapezium having two sides(a=5, b=8) and height(h=6) = "+areaOfTrapezium+"cm");
