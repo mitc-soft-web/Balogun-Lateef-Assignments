@@ -1,0 +1,14 @@
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\bin\Debug\net7.0\Question10.exe
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\bin\Debug\net7.0\Question10.deps.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\bin\Debug\net7.0\Question10.runtimeconfig.json
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\bin\Debug\net7.0\Question10.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\bin\Debug\net7.0\Question10.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.AssemblyInfoInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.AssemblyInfo.cs
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.csproj.CoreCompileInputs.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\refint\Question10.dll
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.pdb
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\Question10.genruntimeconfig.cache
+C:\Users\Balogun Abdul Lateef\Desktop\Lateef Balogun  Assignment\CHAPTER 5\Question10\obj\Debug\net7.0\ref\Question10.dll

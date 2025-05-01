@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question10\\Question10.csproj": {}
+    "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 3\\Question10\\Question10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question10\\Question10.csproj": {
+    "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 3\\Question10\\Question10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question10\\Question10.csproj",
+        "projectUniqueName": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 3\\Question10\\Question10.csproj",
         "projectName": "Question10",
-        "projectPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question10\\Question10.csproj",
+        "projectPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 3\\Question10\\Question10.csproj",
         "packagesPath": "C:\\Users\\Balogun Abdul Lateef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question10\\obj\\",
+        "outputPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 3\\Question10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Balogun Abdul Lateef\\AppData\\Roaming\\NuGet\\NuGet.Config"

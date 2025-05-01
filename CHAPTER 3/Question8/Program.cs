@@ -7,7 +7,7 @@ int r = 5;
 
 if (x*x + y*y <= r*r)
 {
-    System.Console.WriteLine("The Triangle is inside the Circle.");
+    System.Console.WriteLine("The Triangle is within the Circle.");
 }
 else
 {
