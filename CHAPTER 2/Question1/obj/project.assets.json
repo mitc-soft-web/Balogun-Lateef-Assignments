@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\Question1\\Question1.csproj",
+      "projectUniqueName": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question1\\Question1.csproj",
       "projectName": "Question1",
-      "projectPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\Question1\\Question1.csproj",
+      "projectPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question1\\Question1.csproj",
       "packagesPath": "C:\\Users\\Balogun Abdul Lateef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\Question1\\obj\\",
+      "outputPath": "C:\\Users\\Balogun Abdul Lateef\\Desktop\\Lateef Balogun  Assignment\\CHAPTER 2\\Question1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Balogun Abdul Lateef\\AppData\\Roaming\\NuGet\\NuGet.Config"
